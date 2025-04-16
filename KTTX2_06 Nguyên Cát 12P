@@ -55,7 +55,7 @@
 <body>
 
 <header>
-    <img src="https://example.com/your-image.jpg " alt="Logo THPT Ngô Quyền" height="60">
+    <img src="https://drive.google.com/file/d/1przspqMt1fse_r0v1Zd-4jyKgXnvgB5p/view?usp=drivesdk " alt="Logo THPT Ngô Quyền" height="60">
     <h1>BÀI THỰC HÀNH THIẾT KẾ WEB</h1>
 </header>
 
@@ -69,7 +69,7 @@
     <div class="main" id="trangchu">
         <h2>Giới thiệu bản thân</h2>
         <p>Chào bạn! Mình là học sinh lớp 12 tại Trường THPT Ngô Quyền. Mình yêu thích thiết kế web và đang thực hành xây dựng một trang web đơn giản như bài tập này.</p>
-        <img src="converted_image-1.jpg " alt="Hình ảnh cá nhân" width="200">
+        <img src="https://drive.google.com/file/d/1puKLUxnxIglPfVs52lmbNEwjM0U_7LQG/view?usp=drivesdk " alt="Hình ảnh cá nhân" width="200">
     </div>
     <div class="headline">
         <h3>Kết quả kỳ thi học sinh giỏi lớp 12 cấp thành phố - năm học 2024-2025</h3>
