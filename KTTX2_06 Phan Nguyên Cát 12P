@@ -1,0 +1,92 @@
+!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài Thực Hành Thiết Kế Web</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+        }
+        header {
+            background-color: #dff0d8;
+            text-align: center;
+            padding: 20px;
+        }
+        header h1 {
+            font-size: 18pt;
+            color: red;
+        }
+        nav {
+            background-color: #333;
+            overflow: hidden;
+        }
+        nav a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 20px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .container {
+            display: flex;
+        }
+        .main {
+            flex: 3;
+            padding: 20px;
+        }
+        .headline {
+            flex: 1;
+            background-color: #f1f1f1;
+            padding: 20px;
+        }
+        footer {
+            background-color: #dff0d8;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <img src="https://drive.google.com/file/d/1przspqMt1fse_r0v1Zd-4jyKgXnvgB5p/view?usp=drivesdk  " alt="Logo THPT Ngô Quyền" height="60">
+    <h1>BÀI THỰC HÀNH THIẾT KẾ WEB</h1>
+</header>
+
+<nav>
+    <a href="#trangchu">Trang chủ</a>
+    <a href="https://thisinh.thitotnghiepthpt.edu.vn/" target="_blank">Thông tin Tốt nghiệp THPT</a>
+    <a href="https://thptngoquyen.hcm.edu.vn" target="_blank">THPT Ngô Quyền</a>
+</nav>
+
+<div class="container">
+    <div class="main" id="trangchu">
+        <h2>Giới thiệu bản thân</h2>
+        <p>Chào bạn! Mình là học sinh lớp 12 tại Trường THPT Ngô Quyền. Mình yêu thích thiết kế web và đang thực hành xây dựng một trang web đơn giản như bài tập này.</p>
+        <img src="https://drive.google.com/file/d/1puKLUxnxIglPfVs52lmbNEwjM0U_7LQG/view?usp=drivesdk  " alt="Hình ảnh cá nhân" width="200">
+    </div>
+    <div class="headline">
+        <h3>Kết quả kỳ thi học sinh giỏi lớp 12 cấp thành phố - năm học 2024-2025</h3>
+        <a href="https://thptngoquyen.hcm.edu.vn/ban-tin-giao-duc/ket-qua-ky-thi-hoc-sinh-gioi-lop-12-cap-thanh-pho-nam-hoc-2024-2025.ctfull/76697/52367" target="_blank">
+            Xem danh sách tại đây
+        </a>
+
+        <h3>Tổ chức gói và trang trí bánh chưng đón Tết 2025</h3>
+        <a href="https://thptngoquyen.hcm.edu.vn/ban-tin-giao-duc/giao-vien-truong-thpt-ngo-quyen-to-chuc-goi-va-trang-tri-banh-chung-banh-tet-ch.ctfull/76697/521401" target="_blank">
+            Xem chi tiết tại đây
+        </a>
+    </div>
+</div>
+
+<footer>
+    Họ tên: Phan Nguyên Cát - Lớp:12P
+</footer>
+
+</body>
+</html>
